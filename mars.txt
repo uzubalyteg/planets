@@ -5,3 +5,4 @@ Added a line in order to check Git staged.
 Let's make another change.  
 Now we should see a conflict, because the collaborator and the owner modified
 a file. Let's see.  
+I added new line
