@@ -1,4 +1,5 @@
 
 Cold and dry, but everything is my favorite color. 
 The two moons may be a problem for Wolfman.
-Added a line in order to check Git stageg.  
+Added a line in order to check Git staged. 
+Let's make another change.  
